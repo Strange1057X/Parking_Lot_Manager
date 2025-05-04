@@ -1,0 +1,10 @@
+/**
+ * Main CSS file - Parking Lot Simulator
+ * 
+ * This file is set up to work with Tailwind CSS.
+ */
+
+/* Tailwind CSS core layers */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
